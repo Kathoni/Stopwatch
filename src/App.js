@@ -1,9 +1,11 @@
 import React from 'react'
-import './App.css'
+import Stopwatch from './Component/Stopwatch'
 
 function App() {
   return (
-    <div>App</div>
+    <div>
+      <Stopwatch/>
+    </div>
   )
 }
 
